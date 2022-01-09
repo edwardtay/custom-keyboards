@@ -5,8 +5,9 @@ export default function Footer() {
         href='https://www.pointer.gg?utm_source=stackblitz-solidity'
         target='_blank'
         rel='noopener noreferrer'
+        
       >
-        Thanks to {" "} for an excellent tutorial.
+        Tutorial by {" "}
         <span className=''>Pointer</span>
       </a>
       
